@@ -8,5 +8,5 @@ npm i
 3:Node alimama-bot.js : Telegram Bot server start…   //telegram_bot connect and call the restful api to fetch and return product/shop data
 // .env   TELEGRAM_BOT_TOKEN=yourtelebot_token 
 
-
+4:Insert JSON data from mongodbjsondata into MongoDB Atlas under the productsdb database
 
